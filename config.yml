@@ -1,0 +1,23 @@
+baseURL: 
+languageCode: en-us
+title: darek.blog
+theme: "PaperMod"
+enableEmoji: true
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
+params:
+    homeInfoParams:
+        Title: Hi there... 👍
+        Content: I am glad you are here. This blog is about **education, technology, young people** and many other topics I am interested in. Enjoy it and get in touch!
+
+
+    
